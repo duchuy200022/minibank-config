@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to minibank accounts related prod APIs "
+  message: "Welcome to minibank accounts related production APIs "
   contactDetails:
     name: "Bui Duc Huy - Product Owner"
     email: "{cipher}2cb303e0e258a85b539ccd13096f95048dd3502f01aef4e78a10adb6ad534795c08df25e5b10ea5c8d077c5252ec9081"
